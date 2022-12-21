@@ -4,7 +4,7 @@ Patika Dev Git Eğitimi Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumu
 # Instalation
 Proje klonlama linki ve kodu
 
-![image](C:\Users\selim yılmaz\Desktop\gitScreenShot.png)
+![image](gitScreenShot.png)
 
 ```
 git clone https://github.com/seliimyilmaaz/kodluyoruzilkrepo
